@@ -1,0 +1,20 @@
+*{
+    font-family: 'Circular Std Black';
+}
+
+.container_pic{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container_content{
+    color: rgb(255, 88, 88);
+    font-size: 50px;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    border: 15px solid rgb(255, 88, 88);
+    border-radius: 50px;
+}
